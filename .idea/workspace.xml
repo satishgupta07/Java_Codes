@@ -2,38 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/FahrenheitToCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/FreqOfDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/GCD_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/InverseOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/MirrorInverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/PowerOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/PrintArmstrongNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/ButterflyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/DiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/FiboTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/FloydsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/FullPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HillPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HillPatternNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HollowDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/SolidHalfDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/SolidRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/LogXbaseN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/NumSysConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest_01/NthPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest_01/SelectiveArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest_01/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/Problem_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/Problem_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics_01/PrimeSieve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Basics_01/PrintAllPrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Basics_01/PrintAllPrimeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Basics_02/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Basics_02/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics_01/PrintAllPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/PrintAllPrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics_02/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +39,9 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.GCD_02">
-    <configuration name="FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics_02.FahrenheitToCelsius" />
+  <component name="RunManager" selected="Application.Utils">
+    <configuration name="LogXbaseN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics_02.LogXbaseN" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics_02.GCD_02" />
+    <configuration name="PrimeSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathematics_01.PrimeSieve" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics_02.*" />
+          <option name="PATTERN" value="Mathematics_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.HalfPyramid" />
+    <configuration name="Problem_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function.Problem_01" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfPyramidNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.HalfPyramidNumber" />
+    <configuration name="Problem_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function.Problem_02" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfPyramidNumber_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.HalfPyramidNumber_02" />
+    <configuration name="Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Utils" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +106,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HalfPyramid" />
-      <item itemvalue="Application.HalfPyramidNumber" />
-      <item itemvalue="Application.HalfPyramidNumber_02" />
-      <item itemvalue="Application.FahrenheitToCelsius" />
-      <item itemvalue="Application.GCD_02" />
+      <item itemvalue="Application.PrimeSieve" />
+      <item itemvalue="Application.LogXbaseN" />
+      <item itemvalue="Application.Problem_01" />
+      <item itemvalue="Application.Problem_02" />
+      <item itemvalue="Application.Utils" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCD_02" />
-        <item itemvalue="Application.FahrenheitToCelsius" />
-        <item itemvalue="Application.HalfPyramidNumber_02" />
-        <item itemvalue="Application.HalfPyramidNumber" />
-        <item itemvalue="Application.HalfPyramid" />
+        <item itemvalue="Application.Utils" />
+        <item itemvalue="Application.Problem_02" />
+        <item itemvalue="Application.Problem_01" />
+        <item itemvalue="Application.LogXbaseN" />
+        <item itemvalue="Application.PrimeSieve" />
       </list>
     </recent_temporary>
   </component>
@@ -154,37 +136,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591966264264">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592677845675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591966264264" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591966264264">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592677845675" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592677845675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591966264264" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591966264263">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592677845675" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592677845675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591966264263" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591966264264">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592677845675" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592677845675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591966264264" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591950962304">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592677845675" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592675652479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591950962304" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591950962304">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592675652479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591950962304" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591950962303">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592675652479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591950962303" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591950962304">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592675652479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591950962304" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592672264201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592672264201" />
   </component>
 </project>
