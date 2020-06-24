@@ -1,3 +1,7 @@
+/*  NUMBER OF SELECTIVE ARRANGEMENTS  */
+/*  Given a number of objects N (non-repetitive object). Find the number of arrangements
+    in which no object occurs at its original position.  */
+
 package Contest_01;
 
 import java.util.Scanner;

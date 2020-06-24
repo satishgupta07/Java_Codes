@@ -1,3 +1,7 @@
+/* Write a program that can determine whether the characters in the first string 'X' can be rearranged
+   to form the second string 'Y'. The output should be "yes" if htis is possible and "no" if not   */
+
+
 package Contest_01;
 
 import java.util.Arrays;

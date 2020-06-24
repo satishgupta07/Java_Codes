@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/Problem_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mathematics_01/PrimeSieve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathematics_01/PrimeSieve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/SelectiveArrangement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/SelectiveArrangement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/StringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/StringCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_01/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contest_01/SelectiveArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest_01/SelectiveArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contest_01/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest_01/StringCompare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +37,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PrimeSieve">
-    <configuration name="LogXbaseN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics_02.LogXbaseN" />
+  <component name="RunManager" selected="Application.SelectionSort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.BinarySearch" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics_02.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeSieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathematics_01.PrimeSieve" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.BubbleSort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mathematics_01.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.Problem_01" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.InsertionSort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.Problem_02" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.LinearSearch" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Utils" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.SelectionSort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +104,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeSieve" />
-      <item itemvalue="Application.LogXbaseN" />
-      <item itemvalue="Application.Problem_01" />
-      <item itemvalue="Application.Problem_02" />
-      <item itemvalue="Application.Utils" />
+      <item itemvalue="Application.LinearSearch" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.SelectionSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeSieve" />
-        <item itemvalue="Application.Utils" />
-        <item itemvalue="Application.Problem_02" />
-        <item itemvalue="Application.Problem_01" />
-        <item itemvalue="Application.LogXbaseN" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -124,41 +134,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592680565690">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592967530246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592680565690" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592680565690">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592967530246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592680565690" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592680565689">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592967530246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592680565689" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592680565690">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592967530246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592680565690" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592675652479">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592683614459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592675652479">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592683614459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592675652479">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592683614459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592675652479">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592683614459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592675652479" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592672264201">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592958847540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592672264201" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592958847540" />
   </component>
 </project>
