@@ -52,6 +52,14 @@ public class Utils {
         return max;
     }
 
+    public static void reverse(int ar[], int start, int end) {
+
+        while (start <= end) {
+            swap(ar, start, end);
+            start ++;
+            end --;
+        }
+    }
 
 
 }

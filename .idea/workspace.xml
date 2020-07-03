@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/Problem_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_01/ReversalAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/SpiralPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/WavePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/OccurenceIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/SubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/SelectiveArrangement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/SelectiveArrangement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/StringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Contest_01/StringCompare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_01/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contest_01/SelectiveArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest_01/SelectiveArrangement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contest_01/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest_01/StringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Arrays/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Function/Problem_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_01/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_01/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +41,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.BinarySearch" />
+  <component name="RunManager" selected="Application.SubString">
+    <configuration name="OccurenceIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.OccurenceIndex" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.BubbleSort" />
+    <configuration name="SpiralPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.SpiralPrint" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.InsertionSort" />
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.SquareRoot" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.LinearSearch" />
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.SubString" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.SelectionSort" />
+    <configuration name="WavePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.WavePrint" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinearSearch" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.WavePrint" />
+      <item itemvalue="Application.SpiralPrint" />
+      <item itemvalue="Application.OccurenceIndex" />
+      <item itemvalue="Application.SquareRoot" />
+      <item itemvalue="Application.SubString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.SubString" />
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.OccurenceIndex" />
+        <item itemvalue="Application.SpiralPrint" />
+        <item itemvalue="Application.WavePrint" />
       </list>
     </recent_temporary>
   </component>
@@ -134,41 +138,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592967530246">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593770802622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592967530246">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593770802622" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593770802622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592967530246">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593770802622" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593770802622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592967530246">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593770802622" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593770802622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592967530246" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592683614459">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593770802622" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593769542486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592683614459">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593769542486" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593769542485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592683614459">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593769542485" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593769542485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592683614459">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593769542485" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593769542485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592683614459" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592958847540">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593769542485" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593761887656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592958847540" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593761887656" />
   </component>
 </project>
