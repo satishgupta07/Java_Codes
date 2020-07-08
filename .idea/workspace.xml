@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/InverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/MaxInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/MirrorInverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/PrintIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/ColWavePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/CountSubStrPallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/MaxFreqCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Toggles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/SumOfArrayWithCarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_02/Triplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/OddEvenChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Strings/Pallindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Strings/Pallindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Pallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Pallindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/Toggles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Toggles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +32,22 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Toggles">
-    <configuration name="CountSubStrPallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.CountSubStrPallindrome" />
+  <component name="RunManager" selected="Application.OddEvenChar">
+    <configuration name="Intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.Intersection" />
+      <module name="Java_Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.OddEvenChar" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
@@ -51,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.InverseArray" />
+    <configuration name="SumOfArrayWithCarry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.SumOfArrayWithCarry" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MirrorInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.MirrorInverse" />
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.TargetSum" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,25 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.SubString" />
+    <configuration name="Triplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_02.Triplet" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Toggles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Toggles" />
-      <module name="Java_Codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arrays_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,19 +99,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InverseArray" />
-      <item itemvalue="Application.MirrorInverse" />
-      <item itemvalue="Application.SubString" />
-      <item itemvalue="Application.CountSubStrPallindrome" />
-      <item itemvalue="Application.Toggles" />
+      <item itemvalue="Application.Intersection" />
+      <item itemvalue="Application.TargetSum" />
+      <item itemvalue="Application.Triplet" />
+      <item itemvalue="Application.SumOfArrayWithCarry" />
+      <item itemvalue="Application.OddEvenChar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Toggles" />
-        <item itemvalue="Application.CountSubStrPallindrome" />
-        <item itemvalue="Application.SubString" />
-        <item itemvalue="Application.MirrorInverse" />
-        <item itemvalue="Application.InverseArray" />
+        <item itemvalue="Application.OddEvenChar" />
+        <item itemvalue="Application.SumOfArrayWithCarry" />
+        <item itemvalue="Application.Triplet" />
+        <item itemvalue="Application.TargetSum" />
+        <item itemvalue="Application.Intersection" />
       </list>
     </recent_temporary>
   </component>
@@ -134,41 +129,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594181021398">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1594189814319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594181021398" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594181021397">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1594189814319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594181021397" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594181021397">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1594189814319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594181021397" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594181021397">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1594189814319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594181021397" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594151114723">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594189814320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594151114723" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594151114723">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594189814320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594151114723" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594151114722">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594189814320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594151114722" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594151114723">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594189814320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594151114723" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594176325416">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594182747331">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594176325416" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594182747331" />
   </component>
 </project>

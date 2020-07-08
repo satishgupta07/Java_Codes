@@ -1,4 +1,4 @@
-//Take as input S, a string. Write a function that toggles the case of all characters in the string. Print the value returned.
+// Take as input S, a string. Write a function that toggles the case of all characters in the string. Print the value returned.
 
 
 package Strings;
