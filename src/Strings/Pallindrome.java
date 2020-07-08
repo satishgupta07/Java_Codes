@@ -1,3 +1,7 @@
+//        Take as input S, a string. Write a function that returns true if
+//        the string is a palindrome and false otherwise. Print the value returned.
+
+
 package Strings;
 
 import java.util.Scanner;
