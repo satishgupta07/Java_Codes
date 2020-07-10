@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/Intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/SumOfArrayWithCarry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/TargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/Triplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/OddEvenChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/CheckSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/IncAndDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/Pattern_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_01/Pattern_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Toggles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Toggles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +34,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.OddEvenChar">
-    <configuration name="Intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_02.Intersection" />
+  <component name="RunManager" selected="Application.Pattern_03">
+    <configuration name="CheckSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_01.CheckSortedArray" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="PATTERN" value="Recursion_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.OddEvenChar" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.PascalTriangle" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfArrayWithCarry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_02.SumOfArrayWithCarry" />
+    <configuration name="Pattern_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_01.Pattern_01" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="PATTERN" value="Recursion_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_02.TargetSum" />
+    <configuration name="Pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_01.Pattern_02" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="PATTERN" value="Recursion_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_02.Triplet" />
+    <configuration name="Pattern_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_01.Pattern_03" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="PATTERN" value="Recursion_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Intersection" />
-      <item itemvalue="Application.TargetSum" />
-      <item itemvalue="Application.Triplet" />
-      <item itemvalue="Application.SumOfArrayWithCarry" />
-      <item itemvalue="Application.OddEvenChar" />
+      <item itemvalue="Application.CheckSortedArray" />
+      <item itemvalue="Application.Pattern_01" />
+      <item itemvalue="Application.Pattern_02" />
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="Application.Pattern_03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OddEvenChar" />
-        <item itemvalue="Application.SumOfArrayWithCarry" />
-        <item itemvalue="Application.Triplet" />
-        <item itemvalue="Application.TargetSum" />
-        <item itemvalue="Application.Intersection" />
+        <item itemvalue="Application.Pattern_03" />
+        <item itemvalue="Application.Pattern_01" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.Pattern_02" />
+        <item itemvalue="Application.CheckSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -129,38 +131,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1594189814319">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594350610025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1594189814319">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594350610025" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594350610025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1594189814319">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594350610025" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594350610024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1594189814319">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594350610024" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594350610025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594189814319" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594189814320">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594350610025" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594347066354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594189814320">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594347066354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594347066354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594189814320">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594347066354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594347066354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594189814320">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594347066354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594347066354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594189814320" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594347066354" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594182747331">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
