@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion_03/TrickyPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/AsciiDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Subsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/Strings/MaxFreqCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/Strings/MaxFreqCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/MaxFreqCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/MaxFreqCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +32,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TrickyPermutations">
-    <configuration name="AsciiSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.AsciiSubsequence" />
+  <component name="RunManager" selected="Application.StringCompression">
+    <configuration name="MaxFreqCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.MaxFreqCharacter" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_02.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.MazePath" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.RemoveDuplicates" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_02.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazePathList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.MazePathList" />
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringCompression" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_02.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.Skip" />
+    <configuration name="Subsequence (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Subsequence" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_02.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrickyPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_03.TrickyPermutations" />
+    <configuration name="Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_02.Subsequence" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_03.*" />
+          <option name="PATTERN" value="Recursion_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +99,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MazePath" />
-      <item itemvalue="Application.Skip" />
-      <item itemvalue="Application.AsciiSubsequence" />
-      <item itemvalue="Application.MazePathList" />
-      <item itemvalue="Application.TrickyPermutations" />
+      <item itemvalue="Application.Subsequence" />
+      <item itemvalue="Application.Subsequence (1)" />
+      <item itemvalue="Application.MaxFreqCharacter" />
+      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.StringCompression" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrickyPermutations" />
-        <item itemvalue="Application.MazePathList" />
-        <item itemvalue="Application.AsciiSubsequence" />
-        <item itemvalue="Application.Skip" />
-        <item itemvalue="Application.MazePath" />
+        <item itemvalue="Application.StringCompression" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.Subsequence (1)" />
+        <item itemvalue="Application.MaxFreqCharacter" />
+        <item itemvalue="Application.Subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -124,22 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594412776480">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594417581865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594412776480" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594412776480">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594417581865" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594417581865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594412776480" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594412776479">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594417581865" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594417581865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594412776479" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594412776480">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594417581865" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594417581865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594412776480" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594417581865" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594412598867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
