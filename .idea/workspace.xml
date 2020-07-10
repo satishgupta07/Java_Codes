@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/DiceCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/MazePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/Skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion_02/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_02/AsciiSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_02/MazePathList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +28,9 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Skip">
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.Dice" />
+  <component name="RunManager" selected="Application.MazePathList">
+    <configuration name="AsciiSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_02.AsciiSubsequence" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_02.Permutation" />
+    <configuration name="MazePathList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_02.MazePathList" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
@@ -99,19 +95,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Permutation" />
-      <item itemvalue="Application.Dice" />
       <item itemvalue="Application.DiceCount" />
       <item itemvalue="Application.MazePath" />
       <item itemvalue="Application.Skip" />
+      <item itemvalue="Application.AsciiSubsequence" />
+      <item itemvalue="Application.MazePathList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MazePathList" />
+        <item itemvalue="Application.AsciiSubsequence" />
         <item itemvalue="Application.Skip" />
         <item itemvalue="Application.MazePath" />
         <item itemvalue="Application.DiceCount" />
-        <item itemvalue="Application.Dice" />
-        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -129,22 +125,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594383384006">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594384268228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594383384006" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594383384006">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594384268228" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594384268228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594383384006" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594383384006">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594384268228" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594384268228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594383384006" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594383384006">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594384268228" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594384268228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594383384006" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594384268228" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594378533995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
