@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/SetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitMasking/SetBits_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics_01/ShuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/RandomizedQuicksort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/BitMasking/UniqueNumber_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/BitMasking/UniqueNumber_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +33,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.UniqueNumber_2">
-    <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.OddOrEven" />
+  <component name="RunManager" selected="Application.RandomizedQuicksort">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.SetBits" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.QuickSort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.Swap" />
+    <configuration name="RandomizedQuicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.RandomizedQuicksort" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumber_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.UniqueNumber_1" />
+    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathematics_01.ShuffleArray" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Mathematics_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +100,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OddOrEven" />
-      <item itemvalue="Application.Swap" />
-      <item itemvalue="Application.SetBits" />
-      <item itemvalue="Application.UniqueNumber_1" />
       <item itemvalue="Application.UniqueNumber_2" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.ShuffleArray" />
+      <item itemvalue="Application.RandomizedQuicksort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomizedQuicksort" />
+        <item itemvalue="Application.ShuffleArray" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.UniqueNumber_2" />
-        <item itemvalue="Application.UniqueNumber_1" />
-        <item itemvalue="Application.SetBits" />
-        <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.OddOrEven" />
       </list>
     </recent_temporary>
   </component>
@@ -128,41 +130,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594437902116">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594929172707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594437902116" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594437902116">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594929172707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594437902116" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594437902116">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594929172706">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594437902116" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594437902116">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594929172706" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594929172707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594437902116" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594436466676">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594491692641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594436466676" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594436466675">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594491692641" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594491692640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594436466675" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594436466675">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594491692640" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594491692640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594436466675" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594436466675">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594491692640" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594491692641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594436466675" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594433412828">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594491692641" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594927445301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594433412828" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594927445301" />
   </component>
 </project>

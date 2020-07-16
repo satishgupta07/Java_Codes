@@ -4,7 +4,7 @@
 //        Find out an arbitrary set bit (for example, the rightmost set bit).
 //        In the second pass, we divide all numbers into two groups, one with the aforementioned bit set,
 //        another with the aforementinoed bit unset. Two different numbers we need to find must fall into
-//        thte two distrinct groups. XOR numbers in each group, we can find a number in either group.
+//        the two distinct groups. XOR numbers in each group, we can find a number in either group.
 
 
 package BitMasking;
@@ -15,6 +15,7 @@ public class UniqueNumber_2 {
     public static void main(String[] args) {
         int ar[] = {3,1,2,1};
         System.out.println(Arrays.toString(singleNumber(ar)));
+
     }
 
     public static int[] singleNumber(int[] nums) {
