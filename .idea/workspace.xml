@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/SetBits_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mathematics_01/ShuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/RandomizedQuicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Boggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/KnightTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/RatInMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitMasking/NthMagicalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_03/Keypad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/BitMasking/UniqueNumber_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/BitMasking/UniqueNumber_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitMasking/UniqueNumber_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +32,13 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RandomizedQuicksort">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
+  <component name="RunManager" selected="Application.RatInMaze">
+    <configuration name="Boggle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.Boggle" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.QuickSort" />
+    <configuration name="Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_03.Keypad" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Recursion_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomizedQuicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.RandomizedQuicksort" />
+    <configuration name="KnightTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.KnightTour" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathematics_01.ShuffleArray" />
+    <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.NQueen" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mathematics_01.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumber_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMasking.UniqueNumber_2" />
+    <configuration name="RatInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.RatInMaze" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitMasking.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +99,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UniqueNumber_2" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.ShuffleArray" />
-      <item itemvalue="Application.RandomizedQuicksort" />
+      <item itemvalue="Application.Keypad" />
+      <item itemvalue="Application.Boggle" />
+      <item itemvalue="Application.NQueen" />
+      <item itemvalue="Application.KnightTour" />
+      <item itemvalue="Application.RatInMaze" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomizedQuicksort" />
-        <item itemvalue="Application.ShuffleArray" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.UniqueNumber_2" />
+        <item itemvalue="Application.RatInMaze" />
+        <item itemvalue="Application.KnightTour" />
+        <item itemvalue="Application.NQueen" />
+        <item itemvalue="Application.Boggle" />
+        <item itemvalue="Application.Keypad" />
       </list>
     </recent_temporary>
   </component>
@@ -130,38 +129,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594929172707">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595000135853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594929172707">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595000135853" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595000135852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594929172706">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595000135852" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595000135852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594929172706" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594929172707">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595000135852" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595000135852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594929172707" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594491692641">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595000135852" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594997966185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594491692641" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594491692640">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594997966185" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594997966185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594491692640" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594491692640">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594997966185" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594997966185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594491692640" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594491692641">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594997966185" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594997966185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594491692641" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594997966185" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594927445301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
