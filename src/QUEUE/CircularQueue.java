@@ -1,16 +1,19 @@
 package QUEUE;
 
 public class CircularQueue {
-    public int ar[];
-    public int DEFAULT_SIZE=10;
-    public int front=0;
-    public int size=0;
 
-    public int end=0;
+    protected int DEFAULT_SIZE=10;
+
+    protected int end;
+    protected int[] ar;
+    protected int front;
+    protected int size;
 
     public CircularQueue(){
-
         this.ar =new int[DEFAULT_SIZE];
+        this.end = 0;
+        this.front = 0;
+        this.size = 0;
     }
 
     public boolean isFull(){
@@ -18,16 +21,14 @@ public class CircularQueue {
         return size == ar.length;
     }
 
-    public boolean enqueue(int element){
-
+    public void enqueue(int element){
         if(isFull()){
-            return false;
+            return;
         }
 
         ar[end++]=element;
-        end=end%ar.length;
+        end= end %ar.length;
         size++;
-        return true;
     }
 
     public boolean isEmpty() {
@@ -38,7 +39,7 @@ public class CircularQueue {
 
         if(isEmpty()){
             System.out.println("Empty");
-            return 0;
+            return -1;
         }
 
         int temp = ar[front++];
