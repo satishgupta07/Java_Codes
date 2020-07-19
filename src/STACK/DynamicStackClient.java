@@ -8,8 +8,10 @@ public class DynamicStackClient {
             stack.push(i);
         }
 
+
         for (int i = 0; i <10 ; i++) {
             System.out.println(stack.pop());
         }
+
     }
 }

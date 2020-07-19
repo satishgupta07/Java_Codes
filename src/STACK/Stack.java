@@ -41,4 +41,11 @@ public class Stack {
     public int peek(){
         return ar[top-1];
     }
+
+    public void display() {
+        for (int i = this.top-1; i >= 0; i--) {
+            System.out.print(this.ar[i] + ", ");
+        }
+        System.out.println("END");
+    }
 }

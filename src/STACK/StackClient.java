@@ -10,9 +10,10 @@ public class StackClient {
         }
 
         System.out.println("Stack Peek Element : " + stack.peek());
+        stack.display();
 
         try {
-            for (int i = 1; i <= 9; i++) {
+            for (int i = 1; i <= 5; i++) {
                 System.out.println(stack.pop());
             }
         }
@@ -22,6 +23,6 @@ public class StackClient {
         finally {
             System.out.println("finally block is always executed whether exception is handled or not");
         }
-
+        stack.display();
     }
 }
