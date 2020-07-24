@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LINKED_LIST/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LINKED_LIST/LinkedListClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/QUEUE/DynamicCircularQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/QUEUE/DynamicCircularQueueClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/STACK/DynamicStackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/STACK/DynamicStackClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/STACK/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/STACK/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/STACK/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/STACK/StackClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/DynamicStackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/DynamicStackClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/STACK/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/STACK/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/LINKED_LIST/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/LINKED_LIST/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/LINKED_LIST/LinkedListClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/LINKED_LIST/LinkedListClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LINKED_LIST/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LINKED_LIST/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LINKED_LIST/LinkedListClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LINKED_LIST/LinkedListClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,22 +134,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595057151633" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595186570710">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595568721064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595186570710" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595186570709">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595568721064" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595568721063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595186570709" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595186570709">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595568721063" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595568721063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595186570709" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595186570709">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595568721063" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595568721064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595186570709" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595568721064" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595079944695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
