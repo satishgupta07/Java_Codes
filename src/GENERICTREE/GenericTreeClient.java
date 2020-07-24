@@ -1,10 +1,15 @@
 package GENERICTREE;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class GenericTreeClient {
-    public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+public class GenericTreeClient  {
+    public static void main(String[] args) throws FileNotFoundException {
+        File file = new File("input.txt");
+
+        Scanner s = new Scanner(file);
+
         GenericTree tree = new GenericTree();
 
         tree.insert(s);
