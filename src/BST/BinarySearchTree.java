@@ -1,5 +1,6 @@
 package BST;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -48,6 +49,21 @@ public class BinarySearchTree {
         preorder(node.left,indent+"\t");
         preorder(node.right,indent+"\t");
 
+    }
+
+    public void inorder(){
+        inorder(root);
+    }
+
+    private void inorder(Node node) {
+
+        if(node==null){
+            return;
+        }
+
+        inorder(node.left);
+        System.out.println(node.value);
+        inorder(node.right);
     }
 
     public int successor(int value){
@@ -144,5 +160,44 @@ public class BinarySearchTree {
                 queue.add(temp.right);
             }
         }
+    }
+
+    public void makefromprein(int[] pre, int[] in){
+
+        this.root = makefromprein(root,pre,in);
+    }
+
+    private Node makefromprein(Node node, int[] pre, int[] in) {
+
+        if(in.length==0){
+            return null;
+        }
+
+        int val= pre[0];
+        int index = find(in,val);
+
+        int[] pre_left= Arrays.copyOfRange(pre, 1, index+1);
+        int[] pre_right=Arrays.copyOfRange(pre,index+1,pre.length);
+
+        int[] in_left = Arrays.copyOfRange(in,0,index);
+        int[] in_right= Arrays.copyOfRange(in,index+1,in.length);
+
+        Node node1 = new Node(val);
+
+        node1.left= makefromprein(node1.left,pre_left,in_left);
+        node1.right=makefromprein(node1.right,pre_right,in_right);
+
+        return node1;
+    }
+
+    private int find(int[] in, int val) {
+
+        for (int i = 0; i <in.length ; i++) {
+
+            if(in[i]==val){
+                return i;
+            }
+        }
+        return -1;
     }
 }

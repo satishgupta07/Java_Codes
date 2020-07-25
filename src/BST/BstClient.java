@@ -23,14 +23,21 @@ public class BstClient {
 //        System.out.print("Sort : ");
 //        tree.sort();
 
-          System.out.println();
-          int ar[]={1,2,3,4,5,6,7};
-          System.out.println("BST made from sorted array : ");
-          tree.makefromsorted(ar,0,ar.length-1);
-          tree.preorder();
+//          System.out.println();
+//          int ar[]={1,2,3,4,5,6,7};
+//          System.out.println("BST made from sorted array : ");
+//          tree.makefromsorted(ar,0,ar.length-1);
+//          tree.preorder();
+//
+//        System.out.print("Level-Order Traversal : ");
+//        tree.levelorder();
 
-        System.out.print("Level-Order Traversal : ");
-        tree.levelorder();
+        int pre[] = {5,3,2,4,6};
+        int in[] ={2,3,4,5,6};
+
+        tree.makefromprein(pre,in);
+        tree.preorder();
+
 
     }
 }
