@@ -1,7 +1,7 @@
 // Take as input S, a string. Write a function that toggles the case of all characters in the string. Print the value returned.
 
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

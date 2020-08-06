@@ -1,6 +1,6 @@
 // Take as input S, a string. Write a function that prints all its subsequences.
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 //        Take as input S, a string. Write a function that returns the count of substrings
 //        of this string which are palindromes. Print the value returned.
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

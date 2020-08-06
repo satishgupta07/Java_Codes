@@ -1,7 +1,7 @@
 //        Take as input S, a string. Write a function that inserts between each pair of
 //        characters the difference between their ascii codes. Print the value returned.
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

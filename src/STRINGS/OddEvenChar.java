@@ -3,7 +3,7 @@
 //        character with the character having just lower ascii code. Print the value returned.
 
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

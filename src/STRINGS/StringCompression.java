@@ -1,7 +1,7 @@
 //        Take as input S, a string. Write a function that does basic string compression.
 //        Print the value returned. E.g. for input “aaabbccds” print out a3b2c2ds.
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

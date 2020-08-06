@@ -2,7 +2,7 @@
 //        the string is a palindrome and false otherwise. Print the value returned.
 
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

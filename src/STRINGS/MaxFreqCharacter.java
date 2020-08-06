@@ -1,7 +1,7 @@
 //        Take as input S, a string. Write a function that returns the character
 //        with maximum frequency. Print the value returned.
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 

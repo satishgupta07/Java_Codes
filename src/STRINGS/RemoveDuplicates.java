@@ -1,7 +1,7 @@
 //        Take as input S, a string. Write a function that removes all consecutive duplicates.
 //        Print the value returned. E.g. for input "aabccba" print "abcba".
 
-package Strings;
+package STRINGS;
 
 import java.util.Scanner;
 
