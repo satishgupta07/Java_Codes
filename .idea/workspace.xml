@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/MaximumSumContiguousSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/Staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/TrappingRainWaterProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Codes/DynamicProgramming/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Codes/DynamicProgramming/Fibonacci.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.MaximumSumContiguousSubarray">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Fibonacci" />
       <module name="Java_Codes" />
@@ -57,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intersection_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_02.Intersection_02" />
+    <configuration name="MaximumSumContiguousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.MaximumSumContiguousSubarray" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_02.*" />
+          <option name="PATTERN" value="Problems_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGS.PrintFrequency" />
+    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.Staircase" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRINGS.*" />
+          <option name="PATTERN" value="Problems_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contest_01.StringCompare" />
+    <configuration name="TrappingRainWaterProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.TrappingRainWaterProblem" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Contest_01.*" />
+          <option name="PATTERN" value="Problems_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +100,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Intersection_02" />
-      <item itemvalue="Application.StringCompare" />
-      <item itemvalue="Application.PrintFrequency" />
       <item itemvalue="Application.FibonacciSeries" />
       <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.Staircase" />
+      <item itemvalue="Application.TrappingRainWaterProblem" />
+      <item itemvalue="Application.MaximumSumContiguousSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSumContiguousSubarray" />
+        <item itemvalue="Application.TrappingRainWaterProblem" />
+        <item itemvalue="Application.Staircase" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.PrintFrequency" />
-        <item itemvalue="Application.StringCompare" />
-        <item itemvalue="Application.Intersection_02" />
       </list>
     </recent_temporary>
   </component>
@@ -135,38 +138,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595705215646" />
-    <state width="1478" height="207" key="GridCell.Tab.0.bottom" timestamp="1596946886486">
+    <state width="1478" height="207" key="GridCell.Tab.0.bottom" timestamp="1596950173882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596946886486" />
-    <state width="1478" height="207" key="GridCell.Tab.0.center" timestamp="1596946886486">
+    <state width="1478" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596950173882" />
+    <state width="1478" height="207" key="GridCell.Tab.0.center" timestamp="1596950173882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596946886486" />
-    <state width="1478" height="207" key="GridCell.Tab.0.left" timestamp="1596946886485">
+    <state width="1478" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596950173882" />
+    <state width="1478" height="207" key="GridCell.Tab.0.left" timestamp="1596950173881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596946886485" />
-    <state width="1478" height="207" key="GridCell.Tab.0.right" timestamp="1596946886486">
+    <state width="1478" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596950173881" />
+    <state width="1478" height="207" key="GridCell.Tab.0.right" timestamp="1596950173882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596946886486" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596805203189">
+    <state width="1478" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596950173882" />
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1596949241400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596805203189" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596805203170">
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596949241400" />
+    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1596949241400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596805203170" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596805203170">
+    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596949241400" />
+    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1596949241400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596805203170" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596805203170">
+    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596949241400" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1596949241400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596805203170" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596949241400" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596939499114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
