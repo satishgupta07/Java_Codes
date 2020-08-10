@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_01/SortArray0s1s2s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_02/MatrixTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/PrimeFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRING_02/FirstWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRING_02/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRING_02/Panagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRING_02/SumOfNumInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/ClosestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/MinimumNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/RepeatedWordsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/ValidShuffle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,35 +36,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SumOfNumInString">
-    <configuration name="FirstWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRING_02.FirstWord" />
-      <module name="Java_Codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STRING_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRING_02.LongestSubstring" />
-      <module name="Java_Codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STRING_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.PrimeFactor" />
+  <component name="RunManager" selected="Application.ValidShuffle">
+    <configuration name="ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.ClosestNumber" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray0s1s2s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_01.SortArray0s1s2s" />
+    <configuration name="MinimumNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.MinimumNotes" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays_01.*" />
+          <option name="PATTERN" value="Problems_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +63,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRING_02.SumOfNumInString" />
+    <configuration name="RepeatedWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.RepeatedWords" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRING_02.*" />
+          <option name="PATTERN" value="Problems_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedWordsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.RepeatedWordsCount" />
+      <module name="Java_Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems_01.ValidShuffle" />
+      <module name="Java_Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,19 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstWord" />
-      <item itemvalue="Application.PrimeFactor" />
-      <item itemvalue="Application.LongestSubstring" />
-      <item itemvalue="Application.SortArray0s1s2s" />
-      <item itemvalue="Application.SumOfNumInString" />
+      <item itemvalue="Application.RepeatedWords" />
+      <item itemvalue="Application.RepeatedWordsCount" />
+      <item itemvalue="Application.MinimumNotes" />
+      <item itemvalue="Application.ClosestNumber" />
+      <item itemvalue="Application.ValidShuffle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfNumInString" />
-        <item itemvalue="Application.SortArray0s1s2s" />
-        <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.PrimeFactor" />
-        <item itemvalue="Application.FirstWord" />
+        <item itemvalue="Application.ValidShuffle" />
+        <item itemvalue="Application.ClosestNumber" />
+        <item itemvalue="Application.MinimumNotes" />
+        <item itemvalue="Application.RepeatedWordsCount" />
+        <item itemvalue="Application.RepeatedWords" />
       </list>
     </recent_temporary>
   </component>
@@ -142,42 +141,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595705215646" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1596978003582">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1597047037984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596978003582" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1596978003581">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1597047037984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596978003581" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1596978003581">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1597047037984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596978003581" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1596978003582">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1597047037984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596978003582" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1596976865891">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597036122657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596976865891" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1596976865891">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597036122657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596976865891" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1596976865891">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597036122657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596976865891" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1596976865891">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597036122657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596976865891" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596961721105">
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597035391392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596961721105" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597035391392" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596602931568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
