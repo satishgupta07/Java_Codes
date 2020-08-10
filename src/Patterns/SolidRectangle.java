@@ -1,3 +1,9 @@
+//     3
+//     5
+//        * * * * *
+//        * * * * *
+//        * * * * *
+
 package Patterns;
 
 import java.util.Scanner;

@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a799415-faec-487d-b5ed-583c63243936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/ClosestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/LargestPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/MinimumNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/RepeatedWordsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problems_01/ValidShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems_01/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/ButterflyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/ButterflyPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/DiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/DiamondPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/FiboTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/FiboTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/FloydsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/FloydsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/FullPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/FullPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNumber_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HalfPyramid_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HillPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HillPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HillPatternNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HillPatternNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/HollowDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/HollowDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/SolidHalfDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/SolidHalfDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/SolidRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/SolidRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +47,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ValidShuffle">
-    <configuration name="ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.ClosestNumber" />
+  <component name="RunManager" selected="Application.BarGraph">
+    <configuration name="BarGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_01.BarGraph" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems_01.*" />
+          <option name="PATTERN" value="Arrays_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.MinimumNotes" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.PascalTriangle" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems_01.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.RepeatedWords" />
+    <configuration name="SolidHalfDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.SolidHalfDiamond" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems_01.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedWordsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.RepeatedWordsCount" />
+    <configuration name="SolidRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.SolidRectangle" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems_01.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems_01.ValidShuffle" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Triangle" />
       <module name="Java_Codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems_01.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +114,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RepeatedWords" />
-      <item itemvalue="Application.RepeatedWordsCount" />
-      <item itemvalue="Application.MinimumNotes" />
-      <item itemvalue="Application.ClosestNumber" />
-      <item itemvalue="Application.ValidShuffle" />
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="Application.SolidHalfDiamond" />
+      <item itemvalue="Application.SolidRectangle" />
+      <item itemvalue="Application.Triangle" />
+      <item itemvalue="Application.BarGraph" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidShuffle" />
-        <item itemvalue="Application.ClosestNumber" />
-        <item itemvalue="Application.MinimumNotes" />
-        <item itemvalue="Application.RepeatedWordsCount" />
-        <item itemvalue="Application.RepeatedWords" />
+        <item itemvalue="Application.BarGraph" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.SolidRectangle" />
+        <item itemvalue="Application.SolidHalfDiamond" />
+        <item itemvalue="Application.PascalTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -141,42 +152,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595705215646" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1597047037984">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1597081342373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1597047037984">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597081342373" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1597081342373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1597047037984">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597081342373" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1597081342372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1597047037984">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597081342372" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1597081342373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597047037984" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597036122657">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597081342373" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597079382972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597036122657">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597079382972" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597079382972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597036122657">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597079382972" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597079382972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597036122657">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597079382972" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597079382972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597036122657" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597035391392">
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597079382972" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597076682193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597035391392" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597076682193" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596602931568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

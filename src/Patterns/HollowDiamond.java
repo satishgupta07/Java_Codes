@@ -1,3 +1,11 @@
+//        * * *   * * *
+//        * *       * *
+//        *           *
+//
+//        *           *
+//        * *       * *
+//        * * *   * * *
+
 package Patterns;
 
 public class HollowDiamond {
