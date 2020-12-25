@@ -4,7 +4,8 @@ public class Recursion {
     public static void main(String[] args) {
 //        PD(4);
 //        PI(4);
-          PDI(4);
+//          PDI(4);
+        TOH(3,"Source", "Destination", "Helper");
     }
 
     public static void PD(int n) {
@@ -30,5 +31,14 @@ public class Recursion {
         System.out.println("hello "+n);
         PDI(n-1);
         System.out.println("bye "+n);
+    }
+
+    public static void TOH(int n, String src, String dst, String helper) {
+        if(n==0) {
+            return;
+        }
+        TOH(n-1, src, helper, dst);
+        System.out.println("Move "+n+" disk from "+src+" to "+dst);
+        TOH(n-1,helper, dst, src);
     }
 }
