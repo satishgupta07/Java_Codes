@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd91e71-642f-4dad-93fb-03e30547bcc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/LetterCombination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding/Recursion/Recursion03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding/Recursion/Recursion03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Recursion03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Recursion03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +27,16 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Recursion03">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.satishgupta.Main" />
+  <component name="RunManager" selected="Application.LetterCombination">
+    <configuration name="LetterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.LetterCombination" />
       <module name="Java_Coding" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,19 +94,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Recursion" />
       <item itemvalue="Application.Recursion (1)" />
       <item itemvalue="Application.Recursion02" />
       <item itemvalue="Application.Recursion03" />
+      <item itemvalue="Application.LetterCombination" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCombination" />
         <item itemvalue="Application.Recursion03" />
         <item itemvalue="Application.Recursion02" />
         <item itemvalue="Application.Recursion (1)" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,22 +128,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Console/0.0.1280.680@0.0.1280.680" timestamp="1608922015252" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1608930033873">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1608930688666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608930033873" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1608930033872">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608930688666" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1608930688666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608930033872" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1608930033872">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608930688666" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1608930688666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608930033872" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1608930033872">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608930688666" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1608930688666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608930033872" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608930688666" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1608928003366">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -158,9 +160,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608928003365" />
-    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1608928016434">
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1608984558340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1608928016434" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1608984558340" />
   </component>
 </project>
