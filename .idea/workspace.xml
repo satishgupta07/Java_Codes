@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd91e71-642f-4dad-93fb-03e30547bcc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/BlockedMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backtracking/Subset_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BlockedMaze">
+  <component name="RunManager" selected="Application.Subset_01">
     <configuration name="BlockedMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backtracking.BlockedMaze" />
       <module name="Java_Coding" />
@@ -67,19 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion02" />
-      <module name="Java_Coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Recursion03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Recursion03" />
       <module name="Java_Coding" />
@@ -93,20 +80,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subset_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.Subset_01" />
+      <module name="Java_Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Recursion02" />
       <item itemvalue="Application.Recursion03" />
       <item itemvalue="Application.LetterCombination" />
       <item itemvalue="Application.PalindromicPartitioning" />
       <item itemvalue="Application.BlockedMaze" />
+      <item itemvalue="Application.Subset_01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subset_01" />
         <item itemvalue="Application.BlockedMaze" />
         <item itemvalue="Application.PalindromicPartitioning" />
         <item itemvalue="Application.LetterCombination" />
         <item itemvalue="Application.Recursion03" />
-        <item itemvalue="Application.Recursion02" />
       </list>
     </recent_temporary>
   </component>
@@ -128,22 +128,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Console/0.0.1280.680@0.0.1280.680" timestamp="1608922015252" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1609049377440">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1610203043939">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609049377440" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1609049377439">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610203043939" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1610203043938">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609049377439" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1609049377438">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610203043938" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1610203043938">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609049377438" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1609049377440">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610203043938" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1610203043938">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609049377440" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610203043938" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1608928003366">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -160,9 +160,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608928003365" />
-    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1609040057549">
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1610199529767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609040057548" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610199529767" />
   </component>
 </project>
